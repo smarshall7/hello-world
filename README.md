@@ -1,5 +1,5 @@
 # hello-world
-My THIRD repository
+My FIRST repository
 
 I'm learning to code HTML, CSS, and Javascript here I come baby!
 I'm movin' and groovin'.
